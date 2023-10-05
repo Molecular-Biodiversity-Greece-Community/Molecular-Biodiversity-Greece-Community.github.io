@@ -1,1 +1,6 @@
-
+title: The Molecular Biodiversity Greece Community    # Minimal theme
+logo: /assets/img/logo.png
+description: This is the website of the Molecular Biodiversity Greece Community
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
