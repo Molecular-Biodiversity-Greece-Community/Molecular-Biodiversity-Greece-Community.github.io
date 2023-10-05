@@ -52,8 +52,8 @@ _list?_
 ## Resources
 
 - Our mailing list: mbgc@lists.certh.gr 
-- Community Paper: [Building the Molecular Biodiversity Greece Community | Zenodo](https://zenodo.org/record/7078816)
-- Overview Slides (ELIXIR AHM 2023): [MBGC: the Molecular Biodiversity Greece Community | F1000Research](https://f1000research.com/slides/12-556)
+- Zenodo Community Paper: [Building the Molecular Biodiversity Greece Community](https://zenodo.org/record/7078816)
+- Overview F1000 Slides (ELIXIR AHM 2023): [MBGC: the Molecular Biodiversity Greece Community](https://f1000research.com/slides/12-556)
 
 - Special session at HELECOS11: http://helecos11.upatras.gr/programma/
 
